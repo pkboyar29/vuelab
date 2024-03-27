@@ -1,0 +1,17 @@
+[
+   { "id": 1, "name": "элемент1","src1": "/img/1.jpg", "src2": "/img/2.jpg", "src3": "/img/3.jpg", "src4": "/img/4.jpg" },
+   { "id": 2, "name": "элемент2","src1": "/img/5.jpg", "src2": "/img/6.jpg", "src3": "/img/7.jpeg", "src4": "/img/8.jpg" },
+   { "id": 3, "name": "элемент3","src1": "/img/1.jpg", "src2": "/img/2.jpg", "src3": "/img/3.jpg", "src4": "/img/4.jpg" },
+   { "id": 4, "name": "элемент4","src1": "/img/1.jpg", "src2": "/img/2.jpg", "src3": "/img/3.jpg", "src4": "/img/4.jpg" },
+   { "id": 5, "name": "элемент5","src1": "/img/1.jpg", "src2": "/img/2.jpg", "src3": "/img/3.jpg", "src4": "/img/4.jpg" },
+   { "id": 6, "name": "элемент6","src1": "/img/1.jpg", "src2": "/img/2.jpg", "src3": "/img/3.jpg", "src4": "/img/4.jpg" },
+   { "id": 7, "name": "элемент7","src1": "/img/1.jpg", "src2": "/img/2.jpg", "src3": "/img/3.jpg", "src4": "/img/4.jpg" },
+   { "id": 8, "name": "элемент8","src1": "/img/1.jpg", "src2": "/img/2.jpg", "src3": "/img/3.jpg", "src4": "/img/4.jpg" },
+   { "id": 9, "name": "элемент9","src1": "/img/1.jpg", "src2": "/img/2.jpg", "src3": "/img/3.jpg", "src4": "/img/4.jpg" },
+   { "id": 10, "name": "элемент10","src1": "/img/1.jpg", "src2": "/img/2.jpg", "src3": "/img/3.jpg", "src4": "/img/4.jpg" },
+   { "id": 11, "name": "элемент11","src1": "/img/1.jpg", "src2": "/img/2.jpg", "src3": "/img/3.jpg", "src4": "/img/4.jpg" },
+   { "id": 12, "name": "элемент12","src1": "/img/1.jpg", "src2": "/img/2.jpg", "src3": "/img/3.jpg", "src4": "/img/4.jpg" },
+   { "id": 13, "name": "элемент13","src1": "/img/1.jpg", "src2": "/img/2.jpg", "src3": "/img/3.jpg", "src4": "/img/4.jpg" },
+   { "id": 14, "name": "элемент14","src1": "/img/1.jpg", "src2": "/img/2.jpg", "src3": "/img/3.jpg", "src4": "/img/4.jpg" },
+   { "id": 15, "name": "элемент15","src1": "/img/1.jpg", "src2": "/img/2.jpg", "src3": "/img/3.jpg", "src4": "/img/4.jpg" }
+]
